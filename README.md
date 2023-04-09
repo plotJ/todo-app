@@ -29,4 +29,4 @@ The HTML and JavaScript code for this app can be found in the following files:
 
 ## Credits
 
-This app was built by [your name or username].
+This app was built by Josh Plotkin
